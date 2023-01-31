@@ -1,0 +1,10 @@
+.main{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+.center{
+    text-align: center;
+    /* align-content: center; */
+    align-items: center;
+}
